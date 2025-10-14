@@ -17,7 +17,7 @@ A well known formula is : $E=mc^2$
 def greet(name):
     print(f"hello,{name}
     !")
-greet("fede")
+greet(fede)
 ```
 ```bash
 ls -a
